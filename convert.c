@@ -132,6 +132,7 @@ int main(int argc, char* argv[])
                 puts("Input out of range");
                 continue;
             }
+            break;
         }
         selected--;
     }
